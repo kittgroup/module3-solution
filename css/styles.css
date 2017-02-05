@@ -1,0 +1,54 @@
+body, header, nav {
+	font-color: black;
+}
+
+section {
+	height:1000px;
+	background-color: #CCE5FF;
+	margin: 15px 15px  ;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+p {
+	padding: 15px;
+}
+
+#header-nav {
+	background-color: #E0E0E0;
+	border-radius: 0;
+	border-width: 2px;
+	border-color: black;
+	height: 55px;
+}
+
+#brand {
+	font-size: 20px;
+	font-weight: bold;
+	font-color: #000000;
+	margin-left: 10px;
+	padding: 10px;
+	float: left;
+}
+
+#chicken, #beef, #sushi  {
+	font-weight: bold;
+	font-size: 20px;
+	padding: 20px;
+}
+
+#nav-list {
+	text-align: center;
+	margin-top: 50px;
+}
+
+li {
+	padding:4px;
+	border-width: 2px;
+	border-color: black;
+	background-color: grey;
+	font-weight: bold;
+	
+}
